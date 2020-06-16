@@ -11,3 +11,8 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.scrolled {
+  background: rgba(0, 0, 0, 0.526);
+  transition: 700ms linear;
+}
